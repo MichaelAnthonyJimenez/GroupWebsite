@@ -270,6 +270,28 @@ body.dark-mode .card:hover {
   color: #ffffff;
 }
 
+.about-section {
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  color: #222;
+  text-align: center: 
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #0077ff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.about-section p {
+  max-width: 800px;
+  margin: 0 auto 15px;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
 
 
 
